@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Cressensia, and I'm a developer. 
 #### My interests include rollerblading, fashion, and tackling interesting coding projects.
 
-I want to visit the 7 wonders of the world! 
+I want to visit the 7 wonders of the world! I’ll update this space whenever I’ve visited each one.
 
 ![a cute cat](mutianyu_cat.png)
 ~ Here, I visited a cute cat at Mutianyu Great wall of China ~

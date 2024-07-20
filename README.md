@@ -12,4 +12,5 @@ Skills: 🌐 React, JavaScript, HTML, CSS, Java ☕, Python 🐍, SQL, ETL, C++ 
 - 📩 Reach me via Instagram: @iamcressensia
 
 
-Fun Fact: I juggled full-time tutoring and other jobs to pay my university fees in cash! Yes, I said goodbye to student debt with style! 💕💫
+Fun Fact: As a full-time student, I juggled full-time tutoring and other jobs to pay my university fees in cash! Yes, I said goodbye to student debt with style! 💕💫
+

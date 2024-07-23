@@ -14,7 +14,18 @@ I want to visit the 7 wonders of the world! I’ll update this space whenever I�
 ![a cute cat](mutianyu_cat.png)
 ~ Here, I visited a cute cat at Mutianyu Great wall of China ~
 
-Skills: 🌐 React, JavaScript, HTML, CSS, Java ☕, Python 🐍, SQL, ETL, C++ 💻, UI/UX 🎨, Fullstack 👩🏻‍💻
+<br/>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,figma,django,r,java,aws,cpp,docker,cloudfare" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,nextjs,mysql,flask,git" /><br>
+</div>
+
+<br/>
+<hr/>
 
 - 🥳 I'm currently I am currently developing a 3D Developer Portfolio using React and Three.js to showcase my skills and projects.
 - 📩 Reach me via Instagram: @iamcressensia
@@ -22,3 +33,14 @@ Skills: 🌐 React, JavaScript, HTML, CSS, Java ☕, Python 🐍, SQL, ETL, C++ 
 
 Fun Fact: As a full-time student, I juggled full-time tutoring and other jobs to pay my university fees in cash! Yes, I said goodbye to student debt with style! 💕💫
 
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cressensia/cressensia/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>

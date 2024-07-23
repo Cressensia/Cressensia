@@ -33,14 +33,3 @@ I want to visit the 7 wonders of the world! I’ll update this space whenever I�
 
 Fun Fact: As a full-time student, I juggled full-time tutoring and other jobs to pay my university fees in cash! Yes, I said goodbye to student debt with style! 💕💫
 
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/cressensia/cressensia/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>

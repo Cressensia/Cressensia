@@ -7,7 +7,7 @@ I'm a developer specializing in Big Data and Digital Systems Security.
 ------------------------------
 <h2 align="center" > ₊✩‧₊˚౨ৎ˚₊✩‧₊  A little about me ₊✩‧₊˚౨ৎ˚₊✩‧₊ </h2>
 
-#### My interests include rollerblading, fashion, and tackling interesting coding projects.
+#### My interests include rollerblading, fashion, gaming, and tackling interesting coding projects.
 
 I want to visit the 7 wonders of the world! I’ll update this space whenever I’ve visited each one.
 

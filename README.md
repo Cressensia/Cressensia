@@ -27,7 +27,7 @@ I want to visit the 7 wonders of the world! I’ll update this space whenever I�
 <br/>
 <hr/>
 
-- 🥳 I'm currently I am currently developing a 3D Developer Portfolio using React and Three.js to showcase my skills and projects.
+🥳 I'm currently building a 3D Developer Portfolio with React and Three.js to highlight my skills and projects. In addition, I work as a Network Systems Engineer, where I develop tools and automate processes to optimize network management.
 - 📩 Reach me via Instagram: @iamcressensia
 
 
